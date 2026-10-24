@@ -1,0 +1,33 @@
+LEARNETIC demo visual assets
+
+Wildlife photographs are resized to at most 1200 px, encoded as WebP and cropped by presentation styles. Attribution does not imply endorsement. Original files are available at the source pages.
+
+kiwi-nest.webp — Maungatautari Ecological Island Trust, public domain.
+https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg
+
+kiwi-shade.webp — Shaun Lee, CC BY 4.0.
+https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_200349074.jpg
+https://creativecommons.org/licenses/by/4.0/
+
+kiwi-night.webp — Shaun Lee, CC BY 4.0.
+https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_200349086.jpg
+https://creativecommons.org/licenses/by/4.0/
+The two night photos belong to the same observation; they are not an independent sample of varied conditions.
+
+weka-trail.webp — Alan Liefting, public domain.
+https://commons.wikimedia.org/wiki/File:Weka_(bird).jpg
+
+weka-close.webp — Avenue, CC BY-SA 2.5.
+https://commons.wikimedia.org/wiki/File:Curious_weka.jpg
+https://creativecommons.org/licenses/by-sa/2.5/
+This resized derivative is distributed under CC BY-SA 2.5.
+
+weka-test.webp — Sid Mosdell, CC BY 2.0.
+https://commons.wikimedia.org/wiki/File:Weka_(7265262780).jpg
+https://creativecommons.org/licenses/by/2.0/
+
+Scene artwork (wildlife, sport, music, gaming, viral): original AI-generated assets made for this prototype with the built-in image generation tool. The viral court is a synthetic illustration, not a news photograph. Feed thumbnails are illustrations, not playable videos.
+
+Pekka and LEARNETIC identity: user-supplied reference and existing project assets. Existing layered mascot and accessory anchors are reused.
+
+Sound: original sine-wave sequences synthesised locally through Web Audio; no external recordings.
